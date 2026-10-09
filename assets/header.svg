@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" role="img">
+<title>Proxy Nihil — Desktop apps and peer-to-peer systems</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient>
+ <pattern id="grid" width="44" height="40" patternUnits="userSpaceOnUse"><path d="M44 0H0V40" fill="none" stroke="#30363d" stroke-opacity=".28" stroke-width="1"/></pattern>
+ <linearGradient id="wire"><stop stop-color="#ff694b" stop-opacity=".2"/><stop offset=".5" stop-color="#ff694b" stop-opacity=".8"/><stop offset="1" stop-color="#5faaa5" stop-opacity=".4"/></linearGradient>
+</defs>
+<rect width="880" height="200" fill="url(#bg)"/><rect width="880" height="200" fill="url(#grid)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="38" y="73" font-size="35" font-weight="650" fill="#e6edf3">Proxy Nihil</text>
+ <text x="40" y="105" font-size="13" letter-spacing="3.1" fill="#ff694b">DESKTOP APPS / PEER-TO-PEER</text>
+ <path d="M40 117H202" stroke="#ff694b" stroke-width="2"/>
+</g>
+<g font-family="Consolas,monospace" font-size="11" fill="#8b949e">
+ <text x="40" y="143">TypeScript · React · Electron · Python</text>
+ <text x="40" y="166" fill="#59636f">NIHILcoder / building Havvn</text>
+</g>
+<g stroke="url(#wire)" stroke-width="1.5" fill="none">
+ <path d="M587 71L693 106L799 71M587 71L632 155L753 155L799 71M632 155L693 106L753 155"/>
+ <path d="M587 71H799" stroke-dasharray="3 6" opacity=".35"/>
+</g>
+<g font-family="Consolas,monospace" font-size="9" letter-spacing="1" fill="#8b949e" text-anchor="middle">
+ <text x="587" y="47">PEER A</text><text x="799" y="47">PEER B</text>
+ <text x="692" y="82" fill="#ff694b">HAVVN</text>
+ <text x="632" y="182">FILES</text><text x="753" y="182">VOICE</text>
+</g>
+<g fill="#161b22" stroke="#39444f"><rect x="571" y="58" width="32" height="26" rx="5"/><rect x="783" y="58" width="32" height="26" rx="5"/><rect x="620" y="144" width="24" height="22" rx="4"/><rect x="741" y="144" width="24" height="22" rx="4"/></g>
+<rect x="583" y="67" width="8" height="8" rx="1" fill="#6b7683"/><rect x="795" y="67" width="8" height="8" rx="1" fill="#5faaa5"/>
+<rect x="673" y="89" width="40" height="34" rx="7" fill="#201a1b" stroke="#ff694b" stroke-opacity=".65"/>
+<path d="M682 100l5 11 6-9 6 9 5-11" stroke="#ff694b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="629" y="152" width="6" height="6" rx="1" fill="#ff694b"/><rect x="750" y="152" width="6" height="6" rx="1" fill="#5faaa5"/>
+<circle cx="639" cy="88" r="2.5" fill="#ff694b"/><circle cx="754" cy="86" r="2.5" fill="#5faaa5"/>
+<text x="866" y="191" font-family="Consolas,monospace" font-size="8" text-anchor="end" fill="#39444f">direct connections / ongoing work</text></svg>
