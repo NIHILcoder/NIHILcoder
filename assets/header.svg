@@ -9,7 +9,7 @@
 <g font-family="Segoe UI,Arial,sans-serif">
  <text x="38" y="73" font-size="35" font-weight="650" fill="#e6edf3">Proxy Nihil</text>
  <text x="40" y="105" font-size="13" letter-spacing="3.1" fill="#ff694b">DESKTOP APPS / PEER-TO-PEER</text>
- <path d="M40 117H202" stroke="#ff694b" stroke-width="2"/>
+ <path d="M40 117H202" stroke="#ff694b" stroke-width="2"/><rect x="40" y="116" width="0" height="2" fill="#ff947a"><animate attributeName="width" values="0;162;162;0" keyTimes="0;.8;.92;1" dur="7s" repeatCount="indefinite"/></rect>
 </g>
 <g font-family="Consolas,monospace" font-size="11" fill="#8b949e">
  <text x="40" y="143">TypeScript · React · Electron · Python</text>
@@ -29,5 +29,11 @@
 <rect x="673" y="89" width="40" height="34" rx="7" fill="#201a1b" stroke="#ff694b" stroke-opacity=".65"/>
 <path d="M682 100l5 11 6-9 6 9 5-11" stroke="#ff694b" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="629" y="152" width="6" height="6" rx="1" fill="#ff694b"/><rect x="750" y="152" width="6" height="6" rx="1" fill="#5faaa5"/>
-<circle cx="639" cy="88" r="2.5" fill="#ff694b"/><circle cx="754" cy="86" r="2.5" fill="#5faaa5"/>
+
+<g>
+ <circle r="3" fill="#ff694b"><animateMotion path="M587 71L693 106L753 155" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="4s" repeatCount="indefinite"/></circle>
+ <circle r="3" fill="#5faaa5"><animateMotion path="M799 71L693 106L632 155" dur="4s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="4s" begin="-2s" repeatCount="indefinite"/></circle>
+ <circle r="2.5" fill="#ff947a"><animateMotion path="M632 155L587 71L799 71L753 155" dur="7s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.1;.85;1" dur="7s" begin="-1s" repeatCount="indefinite"/></circle>
+ <rect x="673" y="89" width="40" height="34" rx="7" fill="none" stroke="#ff694b"><animate attributeName="stroke-opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></rect>
+</g>
 <text x="866" y="191" font-family="Consolas,monospace" font-size="8" text-anchor="end" fill="#39444f">direct connections / ongoing work</text></svg>
