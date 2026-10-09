@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg?v=2" alt="Proxy Nihil — Desktop apps and peer-to-peer systems" width="880" />
+  <img src="assets/header.svg?v=3" alt="Proxy Nihil — Desktop apps and peer-to-peer systems" width="880" />
 </p>
 <p align="center">
-  <img src="assets/now.svg?v=2" alt="Building Havvn — files move, friends connect" width="720" />
+  <img src="assets/now.svg?v=3" alt="Building Havvn — files move, friends connect" width="720" />
 </p>
 <p align="center">
   <img src="assets/stack.svg" alt="TypeScript · JavaScript · React · Electron · Node.js · Python" height="22" />
