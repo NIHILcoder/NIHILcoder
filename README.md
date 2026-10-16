@@ -8,7 +8,7 @@
   <img src="assets/stack.svg" alt="TypeScript · JavaScript · React · Electron · Node.js · Python" height="22" />
 </p>
 
-## 📊 Activity
+---
 
 <p align="center">
   <a href="https://github.com/NIHILcoder?tab=repositories"><img src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=NIHILcoder&amp;accent=ff694b&amp;cell=square&amp;hide_border=true" alt="Proxy Nihil — public repositories, followers, commits and pull requests" width="440" /></a>
